@@ -1,0 +1,21 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "easy-table": "^1.2.0",
+    "nan": "^2.15.0",
+    "node-gyp": "^9.0.0",
+    "prompt": "^1.2.2",
+    "prompt-sync": "^4.2.0",
+    "random-number-csprng": "^1.0.2"
+  }
+}
